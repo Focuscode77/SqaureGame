@@ -1,0 +1,66 @@
+#parentbox{
+    width: 150px;
+    height: 150px;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.childBox{
+    height: 50px;
+    width: 50px;
+}
+
+.one{
+    background:#539987;
+
+}
+
+.two{
+    background: #503d3f;
+
+}
+
+
+.three{
+
+    background:#9452ff;
+}
+
+
+.four{
+
+    background: #efd9ce;
+}
+
+
+.five{
+
+    background:#ff5254;
+}
+
+
+.six{
+
+    background: #ffa852;
+}
+
+.seven{
+
+    background: #52fff1;
+}
+
+
+.eight{
+
+    background: #FE266D;
+}
+
+
+
+
+
+
+
+
+
